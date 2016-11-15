@@ -1,0 +1,1 @@
+opencv_traincascade -data haar\ -vec "..\images\Letra A\merged_A.vec" -bg ..\images\background\bg.txt -numPos 850 -numNeg 1034 -numStages 20 -featureType HAAR -w 40 -h 40 -precalcIdxBufSize 2048 -precalcValBufSize 2048 -mode ALL
