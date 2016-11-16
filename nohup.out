@@ -30,3 +30,5 @@ Run 'git status' to check the paths you removed from your working tree.
 
 To git@github.com:gbarros/hand-detector.git
    c3f855f..dcd94ac  fisrtrun -> fisrtrun
+To git@github.com:gbarros/hand-detector.git
+   dcd94ac..9161dc9  fisrtrun -> fisrtrun
