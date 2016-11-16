@@ -2,3 +2,17 @@ To git@github.com:gbarros/hand-detector.git
    04722a9..10ff721  fisrtrun -> fisrtrun
 To git@github.com:gbarros/hand-detector.git
    10ff721..6270947  fisrtrun -> fisrtrun
+warning: You ran 'git add' with neither '-A (--all)' or '--ignore-removal',
+whose behaviour will change in Git 2.0 with respect to paths you removed.
+Paths like 'work/nohup.out' that are
+removed from your working tree are ignored with this version of Git.
+
+* 'git add --ignore-removal <pathspec>', which is the current default,
+  ignores paths you removed from your working tree.
+
+* 'git add --all <pathspec>' will let you also record the removals.
+
+Run 'git status' to check the paths you removed from your working tree.
+
+To git@github.com:gbarros/hand-detector.git
+   6270947..c3f855f  fisrtrun -> fisrtrun
