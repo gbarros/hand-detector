@@ -4,6 +4,8 @@ This project is for creating hand pose detectors.
 
 ## Image sources:
 
+- [Marcel Static Hand Posture Database](https://sites.google.com/site/autosignlan/source/image-data-set)
+
 ### Background: 
 
 - Google Images scrapping down sized and converted to gray scale
