@@ -1,2 +1,2 @@
-opencv_traincascade -data haar -vec "../images/LetraA/merged_A.vec" -bg ../images/background/bg1.txt -numPos 850 -numNeg 1034 -numStages 20 -featureType HAAR -w 40 -h 40 -precalcIdxBufSize 7168 -precalcValBufSize 7168 -mode ALL
+opencv_traincascade -data haar -vec "/home/ubuntu/hand-detector/images/LetraB/merged.vec" -bg bg.txt -numPos 1200 -numNeg 1323 -numStages 20 -featureType HAAR -w 40 -h 40 -precalcIdxBufSize 15360 -precalcValBufSize 15360 -mode ALL
 
