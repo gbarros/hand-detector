@@ -6,5 +6,3 @@ imutils == 0.3.6
 
 # hand_annotation.py: 26
 numpy == 1.10.1
-
-cv2

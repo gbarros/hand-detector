@@ -51,7 +51,7 @@ setup(
     ],
     keywords='cli, OpenCV, Computer Vision',
     packages=find_packages(exclude=['docs', 'tests*']),
-    install_requires=['numpy', 'imutils', "cv2"],
+    install_requires=['numpy', 'imutils'],
     extras_require={
         'test': ['coverage', 'pytest', 'pytest-cov'],
     },
