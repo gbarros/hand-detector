@@ -1,0 +1,8 @@
+numpy
+imutils
+cv2
+
+[test]
+coverage
+pytest
+pytest-cov

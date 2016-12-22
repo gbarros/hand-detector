@@ -1,0 +1,6 @@
+[console_scripts]
+hand_annotation = eager.hand_annotation:main
+jsonclean = eager.meta_json:clean
+jsonmerge = eager.meta_json:merge
+prepare_sample = eager.prepare_samples:main
+

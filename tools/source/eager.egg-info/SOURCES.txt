@@ -1,0 +1,16 @@
+MANIFEST.in
+README.rst
+setup.cfg
+setup.py
+eager/__init__.py
+eager/detect.py
+eager/hand_annotation.py
+eager/meta_json.py
+eager/prepare_samples.py
+eager/libs/__init__.py
+eager/libs/batch_cut.py
+eager/libs/enums.py
+eager/libs/mergevec.py
+eager/libs/utils.py
+tests/test_cli.py
+tests/commands/test_hello.py
